@@ -1,0 +1,22 @@
+{
+  "info": {
+    "_postman_id": "df4b7389-3cca-45a5-8849-9496b5f88cd4",
+    "name": "jhgs",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "New Request",
+      "_postman_id": "02330ebc-04d6-46ac-a833-6befb08148e5",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": null
+      },
+      "response": []
+    }
+  ]
+}
